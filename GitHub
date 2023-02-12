@@ -1,0 +1,229 @@
+GitHub is a web-based platform that provides hosting for software development and a community of developers to collaborate and contribute to projects. It is one of the most popular platforms for version control and source code management.
+
+Git is a version control system used by developers to keep track of changes to their code. GitHub is built around Git and provides a user-friendly interface for managing and collaborating on projects.
+
+In this article, we'll provide an overview of the key concepts and features of GitHub and its benefits for developers and organizations.
+
+Repositories
+A repository, or repo, is a collection of files and folders that are tracked by Git. Repositories can contain any type of file, but they are typically used to store code and related files for software projects.
+
+On GitHub, a repo is a central place for storing and sharing code. Repositories can be public or private, and multiple people can contribute to the same repository.
+
+Branches
+Branches are used to create separate versions of a repository. By default, Git creates a single branch in a repository called the master branch. But you can create additional branches for new features, bug fixes, or other purposes.
+
+Each branch has its own version of the files in the repository, and changes made in one branch do not affect other branches. This allows multiple people to work on different parts of a project at the same time.
+
+Commits
+Commits are changes to a repository that are tracked by Git. A commit includes a message describing the changes, the author of the changes, and a reference to the changes themselves.
+
+When you make changes to a file in a repository, you stage those changes for a commit. You can then create a commit, which saves the changes to the repository's history.
+
+Issues
+Issues are a way to track bugs, enhancements, or tasks in a repository. Issues can be created, commented on, and assigned to people.
+
+Issues can also be linked to commits, pull requests, and other issues to show how they are related.
+
+Pull Requests
+Pull requests are used to propose changes to a repository. When you make changes in a branch, you can create a pull request to suggest that those changes be merged into the master branch or another branch.
+
+Others can then review your changes, discuss them, and suggest modifications. When everyone is satisfied, the changes can be merged into the repository.
+
+Forks
+Forks are copies of a repository that you can make to your own account. Forks allow you to experiment with changes to a repository without affecting the original repository.
+
+When you fork a repository, you get your own copy of the files, branches, and history. You can make changes to your copy, and if you want, you can suggest those changes back to the original repository by creating a pull request.
+
+GitHub Pages
+GitHub Pages is a feature that allows you to host a website directly from a repository. You can use GitHub Pages to host a portfolio, a blog, or any other kind of website.
+
+GitHub Pages uses Jekyll, a static site generator, to build your site from Markdown files or HTML templates.
+
+GitHub Actions
+GitHub Actions is a tool that allows you to automate tasks in your workflow, such as building and deploying code. You can use GitHub Actions to run tests, build and package applications, and deploy to production.
+
+GitHub Actions can be triggered by events, such as pushing code to a repository or opening a pull request. You can also use GitHub Actions to run schedule
+DevOps is the method of Software development where the developmentand the operation team collaborates at every stage of the softwaredevelopment cycle. Below in this
+DevOps Tutorial for Beginners
+, wehave enlisted the important needs to learn DevOps,
+It has made innovative and remarkable changes in the practice ofSoftware Development. The complete team takes part in thedevelopment process and it aims for the common goal.
+When there is continuous integration, then there is a consequentreduction in the manual processes that are involved in thedevelopment and testing stages.
+It accelerates the chances to work with efficient team memberswhere the knowledge sharing would be significantly higher andhelps to have a cordial relationship among the team members.
+Last but not the least, with never-ending changes in the IT industry,the demand for skilled DevOps professionals is expected to increasetremendously.
+History of DevOps
+Having seen what DevOps is and the need to learn DevOps. In this
+DevOps Tutorial
+, we will guide you deep into the Core of DevOps andhow it came into the scenes in the industry. Before introducing theDevOps the Software Development industry had two main approachesand they are – Waterfall and Agile model of development.
+Waterfall Model 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 4/83
+This is the kind of Software Development model which is direct andlinear. The Waterfall Model follows the approach of the top-downmethod.
+Also, this model has different starting with the requirement analysisand gatherings. This is the stage where you gather all therequirements from the clients to develop the application.
+The next stage is the Designing stage where you are required toprepare the Blueprint for the software. Here, you can sketch out thedesigns as how your software is going to look like.
+devops Waterfall Model
+Once when the designs are done, they can further be mapped to theImplementation phase, where the coding for the application starts.And here, the team of developers coordinates and works togetheron different components of an application.
+In case if you are done with the application development process,then now you are required to test the developed application in theverification stage. There are different tests conducted on theapplications namely integration testing, unit testing, andperformance testing.
+Once when you are done with all the test processes of theapplication, then they are deployed in the production servers.
+Finally, comes the Maintenance stage, here in this stage theapplication is scrutinized to ensure its performance. Also, any issuesthat are associated with the performance of an application are dealtwith in this phase.
+Upsides of the Waterfall Model
+It is simple and easy for understanding and using it
+It allows performing analysis and testing
+It saves maximum time and money 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 5/83
+This is mainly preferable for smaller projects
+The Waterfall model allows the access of Managerial andDepartmentalization of control
+Downsides of Waterfall Model
+It is highly uncertain and risky
+There is a lack of visibility on the current progression
+It is not preferable when the requirements constantly modify
+It is strenuous to make changes in the products when they are in thetesting phase
+You can find the end product only after the complete end of thecycle
+It is not recommended for complex and larger products
+Agile Methodology
+It is an iteratively based software development approach where thesoftware project is broken into different
+sprints and iterations
+. All theiteration consists of the phases that are found in the waterfall modelnamely – gathering, requirements, designs, testing, development, andmaintenance. The total span of every iteration is 2-8 weeks.
+Process of the Agile Model
+
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 6/83
+The Agile company launches the application with high-priorityfeatures in its first iteration.
+Once the release is over, the customers or the end-users providefeedback on the performance of an application
+Also, we can make the required changes that are found in theapplication with features and applications that are launched againwith the second edition
+You could repeat the complete process until you have reached thespecific software quality
+Upsides of the Agile Model
+This response to the needs and changes more adaptively andsuitably
+Also, fixing the errors at the early phase of development helps theprocess to be more cost-efficient
+It enhances the quality of the product and thus makes them error-free
+It permits direct communication among the people who areinvolved in the Software Development project
+It is highly recommended for the big and long-term projects
+Also, the Agile model needs only minimum resources and this isvery easy to handle
+Downsides of the Agile Model
+It is highly dependent on the customer needs
+It is not easier to predict the effort and time of the bigger projects
+It is not preferable for complex projects
+It struggles more with the document efficiency
+It helps in maintaining the risks
+Even though with the advancing Agile methodology, the Operations andDevelopment teams in an organization remained siloed for many years.And here came DevOps, the next big transformation of collaboration ofpractices and tools for releasing better software at a faster pace. Initially,the DevOps movement began between
+2007-2008
+. During that time theSoftware Development and IT Operation team strongly felt that there wasa catastrophic level of dysfunction in the industry. Also, they fumed thetraditional method of Software development model as the coders and aswell as testers were functionally and organizationally different. 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 7/83
+Furthermore, the Developers and the Operating professionals in the pasthad a separate department, leadership, objectives, goal, performancemethods, and they were assessed on a different basis. Often theseprofessionals were under different roofs or buildings. Also, the resultswere siloed to the specific teams. However, DevOps has the flexibility ofreaching every stage of both the Development and Operation lifecycle.Right from planning to building and monitoring to iterating, DevOps getin together the processes, skills, and tools for every phase of developmentand operation process in the IT organization.
+The DevOps entrust the team to test, build, and deploy at a faster pacewith supreme quality. It is possibly achieved owing to the tools that areoffered by it and this DevOps culture immensely blended with theCorporate culture and ideology which will help the organizations to movefurther. The true power of DevOps could be reached only when there isgood communication and understanding between the team members forreaching the shared goals.
+Applications of DevOps
+DevOps is not only used by the developers and operators. Rather this isused by the administrators such as project managers, test engineers, andin the different segments by the administrators. There are numerouspractices that permit the organization to offer faster and more reliableupdates for its customers. The DevOps core aspect revolves around theAgile principle, which is the significant influencer of DevOps conceptcreation. Below we have listed down the applications,
+Microservices:
+It is a well-planned approach that supports buildingsingle apps as a package for small services. All the services in theseapplications are capable of communicating through well-definedinterfaces. It utilizes the lightweight mechanism which is mostly theHTTP-oriented API.
+Infrastructure as Code:
+This is the practice on which the SoftwareDevelopment codes and techniques are built and the infrastructure ishandled. Usually, the developers and system administrators shallcommunicate through the API-driven models of the Cloud. Rather thanconfiguring and setting up them manually, the IaC communicates with theinfrastructure programmatically. 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 8/83
+Monitor and Logging:
+Mostly the enterprises inspect the logs andmetrics to check the roots and the application’s performance to measurethe end-user experience. Also, active monitoring is crucial to ensure thatthe services are there 24/7 without any interruptions.
+Continuous Integration:
+It constantly indicates the repeated testingand merging. Continuous integration intends to identify the bugs anddefects at an earlier stage to enhance performance. Also, it significantlyreduces the time that is taken for validating and releasing the updates onthe software.
+Collaboration and Communication:
+One of the prime goals ofDevOps is to promote better collaboration and communication. Theautomation and tooling of the software render the process by bringing inthe workforce under one roof of operation and development. It helps inboosting the communication among the departments. Also, teamworkpermits the potent accomplishment of any assigned tasks.
+DevOps in Networking:
+The doctrine of the DevOps concept isalluring and it is harvesting unprecedented popularity in handlingNetworking services. With the aid of the vendor hardware, deploymentmodes, automation of the network functions, devices, and configurationtools it has just become an easier job for the professionals to deploy it.
+DevOps in Data Science:
+The companies are persistently working hardto become more buoyant. And thus more organizations are switching toDevOps to deploy the codes robustly and efficiently. And it makes use ofthe integrated method and successively deploys the plan of the
+DataScience
+in the production. Also, it uses the perfect direction for robustimplementations.
+DevOps in Testing:
+Based on a survey report gathered from the
+RightScale
+, it is stated that numerous companies have preferred DevOpsfor testing. It is done for reaching agility and speed as it is more essentialto automate the complete process of the configuration and testing. Thecomplete function of DevOps is entrusted on the
+“Agile Manifesto”.
+And yet the root of the proficient strategy is called the
+“DevOpsTrinity”
+and it is:
+People and Culture:
+When you adopt DevOps, it helps in eliminatingall the differences among the teams. Also, they mainly work on a common 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 9/83
+goal. The main purpose of DevOps is to gain quality software.
+Tools and Technologies:
+DevOps is one of the sustainable andadaptable models with a range of technology and tools. It allows thecomplete process of the operation and development to be a much easierone.
+Processes and Practices:
+Both the DevOps and the Agile go together.Thus, on the deployment of Agile,
+Scrum
+, Kanban, or Plus automationthe organizations were able to streamline the processes in a replay.
+DevOps Architecture
+In the arena of Software Engineering, both the Development and theOperation team occupy a vital role in application delivery. Generally, theDevelopment team constitutes the administrative services, processes, andsupport of the software. When both the Development and the Operationteams are joined together for collaborating, the DevOps architecturecomes into play. The DevOps concept is the only way to bridge the gapbetween the Development and Operation teams so that the delivery of thesoftware could be achieved rapidly with lesser issues.
+Generally, the DevOps Architecture is used for hosting the largelydistributed applications on the Cloud platform. And the DevOps allowsthe team to alter their shortcomings flexibly and enhances productivityimmensely. Below are the important components of the DevOps andthey are;
+Planning, Identifying, and Tracking:
+Upon using the recent projectmanagement tools and practices, help the team to track the ideas and theworkflows more visually. By doing this the Stakeholders could easily get 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 10/83
+an overview of the progress and also they could easily alter prioritizationto achieve better results. When there is better oversight the ProjectManagers could ensure that the team is operating on the right track andthat they are aware of the near pitfalls and obstacles. Further, the teamscould operate together to resolve any issues that are found in thedevelopment process.
+Continuous Development:
+The Developers in the initial stage plan,build and execute the code on a different version of the control systemnamely Git which holds the source code. Also, after the final release, theremay be feedback or suggestions which a developer should incorporate intothe application. Hence, the continuous process of enhancing theapplication by the Developer is termed
+“Continuous Development”
+.
+Continuous Testing:
+Once the code is uploaded into the Source codeplatform it undergoes the testing phase. Here in this phase, every time thecodes are tested and the necessary changes are implemented on thosecodes before pushing them to the production team.
+Continuous Integration:
+When you complete one stage of the DevOpslifecycle, the application code should be moved immediately to the nextstage. This could take place with the aid of the integration tool. TheDevelopment practice persistently harmonizes the code right from thefirst stage to the next level with the support of tools and they are calledcontinuous integration.
+Continuous Deployment:
+After the addition of every feature on theapplication, it would need a few modifications to the applicationenvironment. It is called Configuration Management. To attain this, weshould make use of more deployment tools. The process of continuouschange on the application environment based on the recent addition ofthe attribute is termed Continuous Deployment.
+Continuous Monitoring:
+After every testing and planning the bugsmay identify their means to the production. We could keep track of thosebugs or other inappropriate system behavior. Also, we could keep track ofthe feature request and monitor the tool persistently to check when andhow the application goes through the updates.
+Continuous Delivery:
+Last, but not least, the DevOps architecture isdeveloped on the motto of Continuous Delivery. This means that any 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 11/83
+practice that is set on the play shall foster collaboration andcommunication among the teams and it should function toward theconstant and routine delivery of the tested software. It could beautomated just like continuous deployment as mentioned above.
+Advantages of DevOps Architecture
+The properly implemented DevOps approach comes with more benefits. Itincludes the following and they are
+Cost Reduction:
+One of the primary concerns for any business would bethe operational cost. The DevOps aids the organizations to keep their costor expenses at a lower range. Owing to efficiency it gets the boost with theDevOps practice and the Software production enhances the businessperformance to foresee the overall decrease in the cost of production.
+Improved Productivity and Release Time:
+With the curtailedstreamlined processes and development cycles, the teams become moreproductive and the software is deployed robustly.
+Efficient and Time-Saving:
+The DevOps eases the lifecycle with theearlier iterations that have been growing complex over time. However,with DevOps, the organizations could gather all the requirements at ease.The thing to be noted here is that, in the DevOps, the process of collectingthe requirements is streamlined and a culture of collaboration,accountability, transparency meets the requirements in a smooth sail withteam efforts. And with this practice, an organization could achieveanything.
+Customer Satisfaction:
+The User Experience and the User feedback isthe most important accept of the DevOps culture. By collecting all thedetails from the clients and then acting based on it helps to ensure thatthe client’s requirements and needs are fulfilled completely to reach newheights in achievements.
+Principles and Workflow of DevOps
+DevOps was earlier called the mindset and the culture which stronglywithholds the collaborative bond among the infrastructure operations andthe software development teams. This culture is fundamentally built onthe below principles 
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 12/83
+Gradual Changes: The utilization of the gradual rollouts permits the
+delivery teams to release the product of the users to have the opportunity
+to use the updates and the rollbacks when something goes wrong.
+Constant Communication and Collaboration: This is the building
+block of the DevOps concepts ever since its inception. Both the Operation
+and Development teams should function cohesively and collaboratively to
+comprehend the requirements and expectations of all the members of the
+organization.
+Sharing of end-to-end Responsibility: All the members of the team
+should march towards one specific goal and this is responsible equally for
+a project right from the very beginning till the end that is to facilitate and
+aid with the need of other member’s tasks.
+Ease of Problem-solving: DevOps would require the tasks that have to
+be performed in the early stage of the project lifecycle. So, DevOps mostly
+concentrate on the tasks of these types and lays the efforts to address
+these issues more quickly.
+Measuring KPIs (Key Performance Indicator): Usually, the
+Decision-making process must be powered with the factual information in
+the first stance. It is important to keep track of the progress and activities
+that make up the DevOps workflow in order to achieve optimum
+efficiency. To measure the different metrics of the system you should first
+allow the system to have an understanding of which goes well with the
+system and what else could be done to enhance the performance.
+Automation of Processes: The golden rule of DevOps is to automate
+as many things as possible like testings, configurations, deployment
+Cr
+Cre
+wit
+ado
+
+2/12/23, 2:04 PM 300+ REAL TIME DevOps Tutorial Pdf & Answers 2023
+https://engineeringinterviewquestions.com/devops-tutorial-pdf/#devopsarchitecture 13/83
+procedures, and developments. It permits the Specialists to overcome thetime-consuming and repetitive work and thus to focus on the otheressential activities that could not be automated by nature.
+Sharing:
+The DevOps philosophy in actual highlights the commonEnglish phrase
+“Sharing is Caring”
+. The DevOps culture highlightsnothing but the significance of the collaboration. It is a crucial aspect ofany work to share feedback. We can also say that it is one of the bestpractices to widen your knowledge and skills among your teams and thiseventually promotes transparency that develops more collectiveintelligence and excludes constraints significantly. Also, on adopting theDevOps process, you need not just stop a development process justbecause only a single person could handle the task efficiently and thatperson is out of work due to some reasons.
